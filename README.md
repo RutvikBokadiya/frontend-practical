@@ -17,7 +17,7 @@ This project is built using Next.js and demonstrates a simple application with l
 1. Clone the repository:
 
    ```bash
-   download from https://github.com/RutvikBokadiya783/frontend-practical
+   download from https://github.com/RutvikBokadiya/frontend-practical
    npm install
    npm run dev
     ````
