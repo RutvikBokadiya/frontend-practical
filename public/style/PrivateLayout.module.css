@@ -1,0 +1,10 @@
+.layout {
+    display: flex;
+  }
+  
+  .content {
+    margin-left: 250px; /* Sidebar width */
+    padding: 1rem;
+    width: calc(100% - 250px); /* Sidebar width */
+  }
+  
